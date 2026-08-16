@@ -17,6 +17,7 @@ Tratamento de eventos;
 Utilização do Local Storage;
 Formulário de contato com validação;
 Interface responsiva.
+
 🛠️ Tecnologias utilizadas
 HTML5
 CSS3
@@ -25,6 +26,7 @@ DOM (Document Object Model)
 Local Storage
 Git
 GitHub
+
 📚 O que foi aprendido
 
 Durante o desenvolvimento, foram aplicados conceitos fundamentais de desenvolvimento web e programação, incluindo:
@@ -38,6 +40,7 @@ Armazenamento de dados utilizando Local Storage;
 Validação de formulários;
 Organização e documentação de projetos;
 Controle de versão utilizando Git e GitHub.
+
 💡 Desafios encontrados
 
 Um dos principais desafios foi transformar uma interface estática em uma aplicação interativa, compreendendo como HTML, CSS e JavaScript trabalham em conjunto para construir uma aplicação funcional.
@@ -55,11 +58,13 @@ Estudar frameworks de desenvolvimento;
 Implementar novas formas de armazenamento e gerenciamento de dados;
 Integrar o projeto a outras tecnologias;
 Continuar utilizando o GitHub para documentar minha evolução acadêmica e profissional.
+
 🎥 Demonstração
 
 Vídeo de apresentação do projeto será disponibilizado após a conclusão da gravação.
 
 📖 Glossário
+
 Termo	Definição
 HTML	Linguagem utilizada para estruturar páginas web.
 CSS	Linguagem utilizada para estilizar a apresentação visual.
@@ -68,6 +73,7 @@ DOM	Estrutura que representa os elementos da página e permite sua manipulação
 Local Storage	Recurso do navegador utilizado para armazenamento local de informações.
 Git	Sistema de controle de versão utilizado para acompanhar alterações no projeto.
 GitHub	Plataforma utilizada para hospedagem e versionamento dos projetos.
+
 👨‍💻 Autor
 
 Lucas Cavalcante
