@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background: #f4f6f8;
+    color: #222;
+}
+
+header {
+    background: #111827;
+    color: white;
+    padding: 20px 8%;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+.hero {
+    text-align: center;
+    padding: 100px 20px;
+    background: #1f2937;
+    color: white;
+}
+
+.hero h2 {
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+button {
+    margin-top: 20px;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+section {
+    max-width: 1000px;
+    margin: auto;
+    padding: 60px 20px;
+}
+
+section h2 {
+    margin-bottom: 20px;
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 15px;
+}
+
+.cards div {
+    background: white;
+    padding: 20px;
+    text-align: center;
+    border-radius: 8px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+input,
+textarea {
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+}
+
+textarea {
+    min-height: 120px;
+}
+
+footer {
+    text-align: center;
+    padding: 25px;
+    background: #111827;
+    color: white;
+}

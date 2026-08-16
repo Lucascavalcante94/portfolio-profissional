@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lucas Cavalcante | Portfólio</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <nav>
+            <h1>Lucas Cavalcante</h1>
+
+            <ul>
+                <li><a href="#sobre">Sobre</a></li>
+                <li><a href="#experiencia">Experiência</a></li>
+                <li><a href="#competencias">Competências</a></li>
+                <li><a href="#contato">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+
+        <section class="hero">
+            <h2>Técnico Eletrônico Sênior</h2>
+            <p>Automação Industrial | Engenharia de Software</p>
+
+            <button onclick="mostrarMensagem()">
+                Conheça meu perfil
+            </button>
+        </section>
+
+        <section id="sobre">
+            <h2>Sobre mim</h2>
+
+            <p>
+                Sou Técnico Eletrônico Sênior com experiência em
+                automação e manutenção industrial. Atualmente,
+                sou estudante de Engenharia de Software, buscando
+                integrar minha experiência industrial aos conhecimentos
+                em tecnologia e desenvolvimento de software.
+            </p>
+        </section>
+
+        <section id="experiencia">
+            <h2>Experiência</h2>
+
+            <p>
+                Experiência com manutenção eletrônica, automação
+                industrial, CLPs, inversores de frequência,
+                sensores, redes industriais e diagnóstico de falhas.
+            </p>
+        </section>
+
+        <section id="competencias">
+            <h2>Competências</h2>
+
+            <div class="cards">
+                <div>Automação Industrial</div>
+                <div>CLP</div>
+                <div>Inversores</div>
+                <div>HTML5</div>
+                <div>CSS3</div>
+                <div>JavaScript</div>
+                <div>Git</div>
+                <div>GitHub</div>
+            </div>
+        </section>
+
+        <section id="contato">
+            <h2>Contato</h2>
+
+            <form onsubmit="enviarFormulario(event)">
+                <input type="text" id="nome" placeholder="Seu nome" required>
+
+                <input type="email" id="email" placeholder="Seu e-mail" required>
+
+                <textarea id="mensagem" placeholder="Sua mensagem" required></textarea>
+
+                <button type="submit">Enviar</button>
+            </form>
+
+            <p id="resultado"></p>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>© 2026 Lucas Cavalcante</p>
+    </footer>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
