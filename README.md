@@ -1,7 +1,7 @@
-🚀 Portfólio Profissional Interativo
-📌 Objetivo do projeto
+# 🚀 Portfólio Profissional Interativo
+## 📌 Objetivo do projeto
 
-Este projeto tem como objetivo desenvolver um portfólio profissional interativo, apresentando minha trajetória, experiências, competências técnicas e objetivos profissionais.
+Este projeto tem como objetivo desenvolver um **portfólio profissional interativo**, apresentando minha trajetória, experiências, competências técnicas e objetivos profissionais.
 
 Desenvolvido como projeto acadêmico, permite aplicar conceitos fundamentais de desenvolvimento web e programação, transformando uma interface inicialmente estática em uma experiência dinâmica e interativa.
 
