@@ -61,7 +61,8 @@ Continuar utilizando o GitHub para documentar minha evolução acadêmica e prof
 
 # 🎥 Demonstração
 
-Vídeo de apresentação do projeto será disponibilizado após a conclusão da gravação.
+Vídeo de apresentação do portfólio profissional abaixo:
+https://youtu.be/qna8uN0Ur-s
 
 # 📖 Glossário
 
